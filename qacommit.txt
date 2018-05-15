@@ -1,1 +1,3 @@
 test commit in the new branch
+
+Edited from QA2 branch
